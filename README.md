@@ -4,6 +4,7 @@
 
 - Create GitHub PAT ( select `repo` and `admin:repo_hook`)
 - Create `github-token` secrete as plain text in AWS secrete manager. By default this is what CDK uses when communicating to GitHub and AWS. 
+- Create a lambda stack that provisions a lambda function on AWS. 
 
 
 
