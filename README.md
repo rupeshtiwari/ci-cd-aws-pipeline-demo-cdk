@@ -8,6 +8,12 @@
 
 ![](https://i.imgur.com/eJyL9el.png)
 
+Notice the lambda function got created 
+
+
+![](https://i.imgur.com/6Tnan5N.png)
+
+
 ## Welcome to your CDK TypeScript project
 
 This is a blank project for TypeScript development with CDK.
